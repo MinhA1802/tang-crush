@@ -12,4 +12,4 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao Anh lại yêu em <3',
     btnReply: 'Gửi cho em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Em biết mà 🥰. Yêu QAnh 😘😘',
+    mess: 'Em biết mà 🥰. Yêu QAnh 😘😘',}
